@@ -60,27 +60,28 @@ body{
 }
 
 h2{
-	font-size: 2.6em;
+	font-size: 1.9em;
 	padding-bottom: 1em;
 }
 
 p{
-	font-size: 1.6em;
-	padding-bottom: 2.6em;
+	font-size: 1.2em;
+	padding-bottom: 1.9em;
 }
 
 .center-column{
 	width:100%;
 	max-width: 720px;
-	min-height: 100vh;
-	padding-left: 1em;
-	padding-right: 1em;
 	margin: auto;
+}
+
+.center-column-content{
+	padding:1em;
 }
 
 .source-list{
 	display: block;
-	padding-bottom: 2.6em;
+	padding-bottom: 1.9em;
 }
 
 .source-list a{
