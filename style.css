@@ -67,6 +67,7 @@ h2{
 p{
 	font-size: 1.2em;
 	padding-bottom: 1.9em;
+	line-height: 1.2em;
 }
 
 .center-column{
@@ -96,4 +97,8 @@ p{
 
 .top-image{
 	padding: 2.6em 0;
+}
+
+.top-image img{
+	width: 100%;
 }
