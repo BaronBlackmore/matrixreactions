@@ -53,5 +53,38 @@
 }
 
 body{
+	background: black;
+	text-align: center;
+	color: white;
 	font-family: cou, sans-serif;
+}
+
+h2{
+	font-size: 1.6em;
+}
+
+p{
+	font-size: 1em;
+}
+
+.center-column{
+	width:100%;
+	max-width: 1080px;
+	min-height: 100vh;
+	padding-left: 1em;
+	padding-right: 1em;
+}
+
+.source-list{
+	display: flex;
+	flex-direction: row;
+}
+
+.source-list a{
+	padding:1em;
+}
+
+.source-list img{
+	width: 32px;
+	height: 32px;
 }
