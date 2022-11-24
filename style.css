@@ -47,11 +47,11 @@
 /*---------------------------end reset------------------------*/
 
 @font-face{
-	font-family: 'courier';
-	src: url('assets/courbd.ttf') format('ttf');
+	font-family: cou;
+	src: url(assets/courbd.ttf);
 	font-style: normal;
 }
 
 body{
-	font-family: courier, sans-serif;
+	font-family: cou, sans-serif;
 }
