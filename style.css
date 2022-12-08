@@ -58,6 +58,7 @@ body{
 	color: white;
 	font-family: cou, sans-serif;
 	background-image: url(assets/code-bg.png);
+	background-size: cover;
 }
 
 h2{
@@ -116,4 +117,8 @@ a{
 	width: 100vw;
 	display: flex;
 	justify-content: space-between;
+}
+
+.faces img{
+	height: 50vw;
 }
