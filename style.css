@@ -57,6 +57,7 @@ body{
 	text-align: center;
 	color: white;
 	font-family: cou, sans-serif;
+	background-image: url(assets/code-bg.png);
 }
 
 h2{
@@ -106,4 +107,13 @@ a{
 
 .top-image img{
 	width: 100%;
+}
+
+.faces{
+	z-index: -1;
+	position:static;
+	bottom: 0;
+	width: 100vw;
+	display: flex;
+	justify-content: space-between;
 }
